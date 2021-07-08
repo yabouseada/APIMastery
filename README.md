@@ -4,7 +4,7 @@
 2. Linux/Unix (I don't care if it does not work on windows).
 
 ## How to run the docker locally :)
-
+(from the root of the project)
 1. `docker-compose build`
 2. `docker-compose up`
 3. Be happy :)
