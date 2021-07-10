@@ -5,6 +5,6 @@
 
 ## How to run the docker locally :)
 (from the root of the project)
-1. `docker-compose build`
-2. `docker-compose up`
+1. `sudo docker-compose build`
+2. `sudo docker-compose up`
 3. Be happy :)
